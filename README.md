@@ -7,7 +7,7 @@ i have used
 - html
 - css
 # What i lerned 
-i learned about alignment and . 
+i learned about alignment and resposniveness. 
 # live link 
 [here](https://luxury-tartufo-c52a2a.netlify.app/)
 
